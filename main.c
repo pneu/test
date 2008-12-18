@@ -1,3 +1,4 @@
+/* test comment */
 #include <stdio.h>
 #include <stdarg.h>
 
