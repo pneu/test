@@ -16,6 +16,7 @@ void sub(double arg, ...)
 }
 
 
+/* main file */
 int main()
 {
 	double f;
