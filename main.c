@@ -25,3 +25,6 @@ int main()
 	sub(f);
 	return 0;
 }
+
+
+/* vim: set sw=4:ts=4: */
