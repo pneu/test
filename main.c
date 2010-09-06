@@ -6,6 +6,7 @@ int main()
 
 	// sub(f, 0);
 	sub(f);
+	printf(f);
 	return 0;
 }
 
